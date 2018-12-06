@@ -2,6 +2,7 @@
 id: 5b7d72c338cd7e35b63f3e14
 title: Improve Compatibility with Browser Fallbacks
 challengeType: 0
+guideUrl: 'https://www.freecodecamp.org/guide/certifications/responsive-web-design/basic-css/improve-compatibility-with-browser-fallbacks'
 videoUrl: ''
 ---
 
